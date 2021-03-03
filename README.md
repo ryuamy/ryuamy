@@ -24,5 +24,4 @@ Here are some ideas to get you started:
 -->
 
 ### My Github stats:
-![Apoorv's github stats](https://github-readme-stats.vercel.app/api?username=laksmisetiawati&show_icons=true&title_color=000&icon_color=8ac926&text_color=000&bg_color=fff&hide=[%22stars%22])
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=baihakitanjung&layout=compact&text_color=000&bg_color=fff)](https://github.com/anuraghazra/github-readme-stats)
